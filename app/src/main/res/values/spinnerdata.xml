@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "spinner_prompt">가게이름</string>
+    <string-array name = "spinner_arrays">
+        <item>가게이름</item>
+        <item>키워드</item>
+        <item>카테고리</item>
+    </string-array>
+</resources>
